@@ -32,6 +32,7 @@ requirements:
     - r-jsonlite
     - r-rappdirs
     - r-tibble
+    - r-tidyr
   run:
     - r-base
     - r-dplyr >=1.0.0
@@ -40,6 +41,7 @@ requirements:
     - r-jsonlite
     - r-rappdirs
     - r-tibble
+    - r-tidyr
 
 test:
   commands:
