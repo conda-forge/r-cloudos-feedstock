@@ -1,11 +1,11 @@
-About r-cloudos
-===============
+About r-cloudos-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cloudos-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/lifebit-ai/cloudos
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cloudos-feedstock/blob/main/LICENSE.txt)
 
 Summary: The 'CloudOS' client library for R makes it easy to interact with CloudOS <https://cloudos.lifebit.ai/> in the R environment for analysis.
 
